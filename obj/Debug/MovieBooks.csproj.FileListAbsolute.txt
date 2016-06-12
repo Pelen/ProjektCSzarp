@@ -1,6 +1,0 @@
-c:\users\jpieniax\documents\visual studio 2015\Projects\MovieBooks\MovieBooks\bin\Debug\MovieBooks.exe.config
-C:\Users\jpieniax\Documents\Visual Studio 2015\Projects\MovieBooks\MovieBooks\bin\Debug\MovieBooks.exe
-C:\Users\jpieniax\Documents\Visual Studio 2015\Projects\MovieBooks\MovieBooks\bin\Debug\MovieBooks.pdb
-C:\Users\jpieniax\Documents\Visual Studio 2015\Projects\MovieBooks\MovieBooks\obj\Debug\MovieBooks.csprojResolveAssemblyReference.cache
-C:\Users\jpieniax\Documents\Visual Studio 2015\Projects\MovieBooks\MovieBooks\obj\Debug\MovieBooks.exe
-C:\Users\jpieniax\Documents\Visual Studio 2015\Projects\MovieBooks\MovieBooks\obj\Debug\MovieBooks.pdb
